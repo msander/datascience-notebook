@@ -1,2 +1,2 @@
 FROM jupyter/datascience-notebook
-RUN conda install psycopg2
+RUN conda install -y psycopg2
